@@ -1,0 +1,16 @@
+{
+    "name" : "Noori PWA PC App",
+    "short_name" : "NooriApp",
+    "start_url" : "./index.html",
+    "scope" : "./",
+    "display" : "standalone",
+    "background_color" : "#ffffff",
+    "them_color" : "#000000",
+    "icons" : [
+        {
+            "src" : "icon.png",
+            "sizes" : "190x190",
+            "type" : "image/png"
+        }
+    ] 
+}
